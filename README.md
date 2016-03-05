@@ -1,12 +1,2 @@
-# library
-
-This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
-version 0.11.1.
-
-## Build & development
-
-Run `grunt` for building and `grunt serve` for preview.
-
-## Testing
-
-Running `grunt test` will run the unit tests with karma.
+# mike-rest-angular-example
+Ejemplo de integración con servicios rest y angularjs.... el servicio solamente tiene un método para devolver información ya que solo es de ejemplo, el servicio esta desarrollado en java y la vista con html5 y angularjs
